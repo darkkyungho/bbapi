@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/darkkyungho/bbapi.png?label=ready)](https://waffle.io/darkkyungho/bbapi)
 BudgetBook API Application
 =====
 
